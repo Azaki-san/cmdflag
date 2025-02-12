@@ -7,7 +7,7 @@ Building on top of the excellent `flag`  package from the standard library, `cmd
 ## Install
 
 ```
-go get github.com/pierrec/cmdflag
+go get github.com/Azaki-san/cmdflag
 ```
 
 ## Usage

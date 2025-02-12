@@ -6,7 +6,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/pierrec/cmdflag"
+	"github.com/Azaki-san/cmdflag"
 )
 
 func restoreArgs() (done func()) {

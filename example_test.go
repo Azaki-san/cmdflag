@@ -3,7 +3,7 @@ package cmdflag_test
 import (
 	"flag"
 	"fmt"
-	"github.com/pierrec/cmdflag"
+	"github.com/Azaki-san/cmdflag"
 )
 
 func ExampleCommand_Add() {

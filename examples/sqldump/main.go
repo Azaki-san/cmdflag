@@ -10,8 +10,8 @@ import (
 	"log"
 	"os"
 
+	"github.com/Azaki-san/cmdflag"
 	_ "github.com/lib/pq"
-	"github.com/pierrec/cmdflag"
 	"github.com/xo/dburl"
 )
 

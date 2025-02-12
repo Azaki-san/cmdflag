@@ -1,3 +1,3 @@
-module github.com/pierrec/cmdflag
+module github.com/Azaki-san/cmdflag
 
-go 1.12
+go 1.24
