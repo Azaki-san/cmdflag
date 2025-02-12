@@ -1,9 +1,9 @@
-module github.com/pierrec/cmdflag/examples/sqldump
+module github.com/Azaki-san/cmdflag/examples/sqldump
 
-go 1.12
+go 1.24
 
 require (
+	github.com/Azaki-san/cmdflag v1.1.1
 	github.com/lib/pq v1.1.1
-	github.com/pierrec/cmdflag v0.0.0-20190515120844-14a37df570d0
 	github.com/xo/dburl v0.0.0-20190203050942-98997a05b24f
 )
